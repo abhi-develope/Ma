@@ -120,7 +120,7 @@ justify-items: center;
     }
     .box{
         width: 70%;
-       height: 150px;
+       height: 180px;
     }
     .calculate-form{
         grid-template-columns: 1fr;
@@ -131,6 +131,7 @@ justify-items: center;
     }
     .content h1{
         font-size: 50px;
+        color: white;
     }
     .content h2{
         font-size: 30px;
